@@ -5,7 +5,7 @@ Welcome to my GitHub Page! 👋
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ I'm a Data Analyst and Machine Learning Scientist with over 3 years of experience.
-- ⚡ I help companies save money and automate tasks with Python and Machine Learning.
+- ⚡ Currently learning Software engineering principles via Leet-Code Problems & Any new concept I dig deep into it.
 - ⚡ I also love UX/UI Design and have developed apps using Flutter/Dart.
 
 <br/>
