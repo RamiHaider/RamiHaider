@@ -4,9 +4,8 @@ Welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ I'm a Data Analyst and Machine Learning Scientist with over 3 years of experience.
-- ⚡ Currently learning Software engineering principles via Leet-Code Problems & Any new concept I dig deep into it.
-- ⚡ I also love UX/UI Design and have developed apps using Flutter/Dart.
+- ⚡ In Tech I play many roles: UX/UI Designer, Full-Stack Web Developer, Data Scientist, ML Engineer 
+- ⚡ Currently kickstarting my amazing company: Hadoona, a field data management SaaS
 
 <br/>
 
