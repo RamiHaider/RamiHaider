@@ -5,7 +5,7 @@ Welcome to my GitHub Page! 👋
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ In Tech I play many roles: UX/UI Designer, Full-Stack Web Developer, Data Scientist, ML Engineer 
-- ⚡ Currently kickstarting my amazing company: Hadoona, a field data management SaaS
+- ⚡ Currently kickstarting an amazing company: Hadoona, a field data management SaaS
 
 <br/>
 
