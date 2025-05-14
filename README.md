@@ -15,11 +15,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
 ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+
 
 <br/>
 
@@ -36,7 +34,6 @@
 <br/>
 
 ## 📊 &nbsp;Data {Analysis/Science/Engineer} Stack&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
