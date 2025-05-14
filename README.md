@@ -1,4 +1,4 @@
-## 👨🏻‍💻 &nbsp;About Me&nbsp;
+## &nbsp;About Me&nbsp;
 - ⚡ BSc Geology & Applied Math from U of Western Ontario, MS in Applied Data Science from U of Michigan 
 - ⚡ A UX/UI Designer, Full-Stack Web Developer, Data Engineer, Data Scientist, ML Engineer all wrapped in one
 - ⚡ Currently on the lookout for a position in Data ___ or ML Engineer
