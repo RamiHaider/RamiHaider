@@ -30,5 +30,5 @@ Data Stack&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 
-## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
-ramiaboushamalah@gmail.com
+## 🤝🏻 &nbsp;Visit my Portfolio website&nbsp;&nbsp;
+RamiHaider.me
