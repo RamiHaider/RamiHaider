@@ -1,11 +1,10 @@
-# Hi, I'm Rami Haider Abou-Shamalah. 
+# Hi, Welcome to my GitHub Page! 👋
 
-Welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ In Tech I play many roles: UX/UI Designer, Full-Stack Web Developer, Data Scientist, ML Engineer 
-- ⚡ Currently kickstarting an amazing company: Hadoona, a field data management SaaS
+- ⚡ A UX/UI Designer, Full-Stack Web Developer, Data Engineer, Data Scientist, ML Engineer all wrapped in one
+- ⚡ Currently on the lookout for a position in Data ___ or ML Engineer
 
 <br/>
 
@@ -21,7 +20,7 @@ Welcome to my GitHub Page! 👋
 
 <br/>
 
-## 📊 &nbsp;ML / Data Analysis Stack&nbsp;&nbsp;
+## 📊 &nbsp;ML / Data {Analysis/Science/Engineer/ML} Stack&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=ml)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deep-learning)
