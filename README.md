@@ -1,7 +1,3 @@
-# Hi, Welcome! 👋
-
-<br/>
-
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ A UX/UI Designer, Full-Stack Web Developer, Data Engineer, Data Scientist, ML Engineer all wrapped in one
 - ⚡ Currently on the lookout for a position in Data ___ or ML Engineer
