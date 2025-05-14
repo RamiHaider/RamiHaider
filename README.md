@@ -5,7 +5,7 @@
 
 <br/>
 
-## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
+## 🛠 &nbsp;Developer Stack&nbsp
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🤖 &nbsp;Machine Learning & AI
+## 🤖 &nbsp; Data Stack 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
@@ -27,28 +27,10 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat)
-
-<br/>
-
-## 📊 &nbsp;Data {Analysis/Science/Engineer} Stack&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
 
-
-
-
-
-## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiHaider&theme=nightowl)](https://git.io/streak-stats)
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiHaider&theme=nightowl&show_icons=true)
 <br/>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=RamiHaider">
-</a>
 
-### Most Used Languages&nbsp;&nbsp;
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiHaider&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 ramiaboushamalah@gmail.com
