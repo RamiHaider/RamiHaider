@@ -1,7 +1,7 @@
 - ⚡ BSc Geology & Applied Math from U of Western Ontario
 - ⚡ MS in Applied Data Science from U of Michigan 
 - ⚡ 4+ years industry experience in: UX Design, Full-Stack Development, Data {Engineer,Science} & ML Engineer
-- ⚡ Currently seeking employment for a position Data or ML Engineer Position
+- ⚡ Currently seeking employment for a Data _ or ML Engineer Position
 - ⚡ US/Canadian Dual Citizen, open to travel & able to work anywhere in North America
 
 <br/>
