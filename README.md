@@ -1,11 +1,11 @@
 ## &nbsp;About Me&nbsp;
 - ⚡ BSc Geology & Applied Math from U of Western Ontario, MS in Applied Data Science from U of Michigan 
 - ⚡ A UX/UI Designer, Full-Stack Web Developer, Data Engineer, Data Scientist, ML Engineer all wrapped in one
-- ⚡ Currently on the lookout for a position in Data ___ or ML Engineer
+- ⚡ Currently seeking employment for a position a Data analyst,scientist,engineer position or ML Engineer
 
 <br/>
 
-## 🛠 &nbsp;Developer Stack&nbsp
+# Developer Stack&
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,8 +18,7 @@
 
 <br/>
 
-## 🤖 &nbsp; Data Stack 
-
+# Data Stack 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
