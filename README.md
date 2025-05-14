@@ -12,11 +12,27 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=white)
+
+
+<br/>
+
+## 🤖 &nbsp;Machine Learning & AI
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat)
+![LSTM](https://img.shields.io/badge/-LSTM-333333?style=flat)
+![CNN](https://img.shields.io/badge/-CNN-333333?style=flat)
 
 <br/>
 
@@ -26,15 +42,8 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deep-learning)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 
