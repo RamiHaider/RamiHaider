@@ -1,8 +1,7 @@
-- ⚡ BS Geology & Applied Math from U of Western Ontario
-- ⚡ MS in Applied Data Science from U of Michigan 
-- ⚡ 4+ years industry experience in: UX Design, Full-Stack Development, Data {Engineer,Science} & ML Engineer
-- ⚡ Currently seeking employment for a Data _ or ML Engineer Position
-- ⚡ US/Canadian Dual Citizen, open to travel & able to work anywhere in North America
+- BS Geology & Math from U of Western Ontario
+- MS Data Science from U of Michigan 
+- 4+ years: UX Design, Full-Stack Development, Data {Engineer,Science} & ML Engineer
+- US/Canadian Dual Citizen, open to travel & able to work anywhere in North America
 
 <br/>
 
@@ -30,5 +29,5 @@ Data Stack&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 
-## 🤝🏻 &nbsp;Visit my Portfolio website&nbsp;&nbsp;
+## &nbsp;Visit my website&nbsp;&nbsp;
 RamiHaider.me
