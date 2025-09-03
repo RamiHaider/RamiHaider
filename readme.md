@@ -1,5 +1,5 @@
-- BS Geology & Math, Western Ontario
-- MS Data Science, Michigan 
+- BS Math, U Western
+- MS Data Science, U Michigan 
 - 4+ years: UX, Development, Data Engineering & ML Engineer
 - US/Canadian Dual Citizen
 
