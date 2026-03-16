@@ -2,7 +2,6 @@
 - MS Data Science, U Michigan 
 - Web Development since 2018
 - UX/UI Since 2021
-- Machine Learning since 2021
 - US/Canadian Dual Citizen
 
 
