@@ -1,7 +1,5 @@
-- BS Math, U Western
+- BSc Applied Math, U Western
 - MS Data Science, U Michigan 
-- Web Development since 2018
-- UX/UI Since 2021
 - US/Canadian Dual Citizen
 
 
